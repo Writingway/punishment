@@ -5,12 +5,12 @@ Chaque commit doit dire ce qu’il fait, sans qu’on doive deviner.
 
 ---
 ## Format obligatoire
-feat(api): add user login endpoint
-Allow users to log in and get a JWT.
-Closes #42
+- feat(api): add user login endpoint
+- Allow users to log in and get a JWT.
+- Closes #42
 
-feat(api)!: remove old auth system
-BREAKING CHANGE: old auth routes deleted
+- feat(api)!: remove old auth system
+- BREAKING CHANGE: old auth routes deleted
 
 ---
 ## Type   Quand l’utiliser
