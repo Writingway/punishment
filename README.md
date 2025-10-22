@@ -22,7 +22,6 @@ refactor	Amélioration du code sans changer le comportement
 test	    Ajout ou mise à jour de tests
 build	    Changement de dépendance ou de configuration CI
 chore	    Tâche mineure, maintenance
-
 ---
 ## Bonnes pratiques
 Utiliser un verbe à l’impératif : “add”, “fix”, “remove”
